@@ -5,11 +5,11 @@ Currency Conversion App:
 
 Language: ReactJS 
 
-Goal 
+GOAL 
 
 Develop a currency conversion web app.
 
-Task 
+TASK 
 
 Create a web app that uses ReactJS as front-end to view the currency conversion rates for given currencies.
 The application should contain the authentication pages (sign up, sign in and forgot password). Use the browser's local 
@@ -25,7 +25,7 @@ Bonus Tasks
 As a bonus task, include Google OAuth in sign in and sign up pages. Users can use Sign In with the Google option to 
 skip authentication.
 
-Deliverables 
+DELIVERIES 
 
 A functional web app and a short text explaining your design decisions. In addition, the text should contain how you 
 evaluated your results and ideas for further improvement (feel free to add mockups if required).
